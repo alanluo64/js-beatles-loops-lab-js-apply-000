@@ -1,3 +1,4 @@
 function theBeatlesPlay(players,instruments) {
-  var allPlayers = []
+  var allPlayers = [];
+  
 }
